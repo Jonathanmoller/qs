@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Philip Englund\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Philip Englund\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Philip Englund\.Rider2019.2\config\plugins\puppet\lib\stubs" t="IncludeRecursive" />
+    <e p="C:\Users\Philip Englund\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Philip Englund\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Quicksilver.195739681.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Philip Englund\Workspace\Quicksilver" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive">
+        <e p="xunit.runner.visualstudio.2.3.1\build\_common\xunit.abstractions.dll" t="Include" />
+        <e p="xunit.runner.visualstudio.2.3.1\build\_common\xunit.runner.reporters.net452.dll" t="Include" />
+        <e p="xunit.runner.visualstudio.2.3.1\build\_common\xunit.runner.utility.net452.dll" t="Include" />
+        <e p="xunit.runner.visualstudio.2.3.1\build\_common\xunit.runner.visualstudio.testadapter.dll" t="Include" />
+      </e>
+      <e p="Quicksilver.sln" t="IncludeFlat" />
+      <e p="Sources\AssemblyVersionAuto.cs" t="Include" />
+      <e p="Sources\EPiServer.Reference.Commerce.Manager" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BlobStorage" t="Include">
+          <e p="Public" t="Include">
+            <e p="placeholder.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Configs" t="Include">
+          <e p="baf.config" t="Include" />
+          <e p="baf.data.manager.config" t="Include" />
+          <e p="baf.data.metaobject.config" t="Include" />
+          <e p="ecf.app.config" t="Include" />
+          <e p="ecf.catalog.config" t="Include" />
+          <e p="ecf.customer.config" t="Include" />
+          <e p="ecf.customization.config" t="Include" />
+          <e p="ecf.marketing.config" t="Include" />
+          <e p="ecf.order.config" t="Include" />
+          <e p="ecf.security.config" t="Include" />
+          <e p="ecf.ssl.config" t="Include" />
+          <e p="EcfGridFull.xsd" t="Include" />
+          <e p="Mediachase.Search.config" t="Include" />
+          <e p="Mediachase.Search.Filters.config" t="Include" />
+          <e p="Mediachase.Search.Filters.xsd" t="Include" />
+          <e p="Mediachase.Search.Objects.xsd" t="Include" />
+        </e>
+        <e p="Default.aspx" t="Include" />
+        <e p="EPiServer.Reference.Commerce.Manager.csproj" t="IncludeRecursive" />
+        <e p="EPiServerDefault.aspx" t="Include" />
+        <e p="EPiServerFramework.config" t="Include" />
+        <e p="EPiServerLog.config" t="Include" />
+        <e p="Global.asax" t="Include" />
+        <e p="IRIConfigurationModule.cs" t="Include" />
+        <e p="Login.aspx.cs" t="Include" />
+        <e p="Login.aspx.designer.cs" t="Include" />
+        <e p="Logout.aspx.cs" t="Include" />
+        <e p="modulesbin" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="Web.config" t="Include" />
+        <e p="web.Debug.config" t="Include" />
+        <e p="web.Release.config" t="Include" />
+      </e>
+      <e p="Sources\EPiServer.Reference.Commerce.Shared" t="IncludeRecursive">
+        <e p="app.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CatalogIndexer" t="Include">
+          <e p="RestIndexer.cs" t="Include" />
+          <e p="RestSearchDocument.cs" t="Include" />
+          <e p="RestSearchField.cs" t="Include" />
+        </e>
+        <e p="EPiServer.Reference.Commerce.Shared.csproj" t="IncludeRecursive" />
+        <e p="GenericCreditCardPaymentGateway.cs" t="Include" />
+        <e p="Identity" t="Include">
+          <e p="ChallengeResult.cs" t="Include" />
+          <e p="ConsentData.cs" t="Include" />
+          <e p="ContactIdentityResult.cs" t="Include" />
+          <e p="OwinInitialization.cs" t="Include" />
+          <e p="SiteUser.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="MailBasePage.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="HtmlDownloader.cs" t="Include" />
+          <e p="IHtmlDownloader.cs" t="Include" />
+          <e p="IMailService.cs" t="Include" />
+          <e p="MailService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Sources\EPiServer.Reference.Commerce.Site" t="IncludeRecursive">
+        <e p="App_Code" t="Include">
+          <e p="Functions.cshtml" t="Include" />
+          <e p="Helpers.cshtml" t="Include" />
+        </e>
+        <e p="App_Data" t="Include">
+          <e p="Catalog_Fashion.zip" t="Include" />
+          <e p="DefaultSiteContent.episerverdata" t="Include" />
+          <e p="GeoLiteCity.dat" t="Include" />
+          <e p="Orders.json" t="Include" />
+          <e p="ProductAssets.episerverdata" t="Include" />
+          <e p="Taxes.csv" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Configs" t="Include">
+          <e p="baf.config" t="Include" />
+          <e p="baf.data.manager.config" t="Include" />
+          <e p="baf.data.metaobject.config" t="Include" />
+          <e p="ecf.app.config" t="Include" />
+          <e p="ecf.catalog.config" t="Include" />
+          <e p="ecf.customer.config" t="Include" />
+          <e p="ecf.customization.config" t="Include" />
+          <e p="ecf.marketing.config" t="Include" />
+          <e p="ecf.order.config" t="Include" />
+          <e p="ecf.security.config" t="Include" />
+          <e p="ecf.ssl.config" t="Include" />
+          <e p="Mediachase.Search.config" t="Include" />
+          <e p="Mediachase.Search.Filters.config" t="Include" />
+        </e>
+        <e p="episerver.config" t="Include" />
+        <e p="EPiServer.Reference.Commerce.Site.csproj" t="IncludeRecursive" />
+        <e p="EPiServerFramework.config" t="Include" />
+        <e p="EPiServerLog.config" t="Include" />
+        <e p="Features" t="Include">
+          <e p="AddressBook" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="AddressBookController.cs" t="Include" />
+            </e>
+            <e p="Pages" t="Include">
+              <e p="AddressBookPage.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="AddressBookService.cs" t="Include" />
+              <e p="IAddressBookService.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="AddressCollectionViewModel.cs" t="Include" />
+              <e p="AddressViewModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Campaign" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="CampaignController.cs" t="Include" />
+            </e>
+            <e p="Pages" t="Include">
+              <e p="CampaignPage.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Cart" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="CartController.cs" t="Include" />
+              <e p="WishListController.cs" t="Include" />
+            </e>
+            <e p="extensions" t="Include">
+              <e p="CartExtensions.cs" t="Include" />
+            </e>
+            <e p="Pages" t="Include">
+              <e p="WishListPage.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="AddToCartResult.cs" t="Include" />
+              <e p="CartService.cs" t="Include" />
+              <e p="ICartService.cs" t="Include" />
+            </e>
+            <e p="ViewModelFactories" t="Include">
+              <e p="CartItemViewModelFactory.cs" t="Include" />
+              <e p="CartViewModelFactory.cs" t="Include" />
+              <e p="ShipmentViewModelFactory.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="CartItemViewModel.cs" t="Include" />
+              <e p="CartViewModelBase.cs" t="Include" />
+              <e p="LargeCartViewModel.cs" t="Include" />
+              <e p="MiniCartViewModel.cs" t="Include" />
+              <e p="ShipmentViewModel.cs" t="Include" />
+              <e p="ShippingMethodViewModel.cs" t="Include" />
+              <e p="UpdateShippingMethodViewModel.cs" t="Include" />
+              <e p="WishListMiniCartViewModel.cs" t="Include" />
+              <e p="WishListViewModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Checkout" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="CheckoutController.cs" t="Include" />
+              <e p="MultiShipmentController.cs" t="Include" />
+              <e p="OrderConfirmationController.cs" t="Include" />
+              <e p="OrderConfirmationControllerBase.cs" t="Include" />
+              <e p="OrderConfirmationMailPageController.cs" t="Include" />
+            </e>
+            <e p="Models" t="Include">
+              <e p="ShippingMethodInfoModel.cs" t="Include" />
+            </e>
+            <e p="Pages" t="Include">
+              <e p="CheckoutPage.cs" t="Include" />
+              <e p="MultiShipmentPage.cs" t="Include" />
+              <e p="OrderConfirmationMailPage.cs" t="Include" />
+              <e p="OrderConfirmationPage.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="AnonymousPurchaseValidation.cs" t="Include" />
+              <e p="AuthenticatedPurchaseValidation.cs" t="Include" />
+              <e p="CheckoutAddressHandling.cs" t="Include" />
+              <e p="CheckoutService.cs" t="Include" />
+              <e p="ConfirmationService.cs" t="Include" />
+              <e p="PurchaseValidation.cs" t="Include" />
+              <e p="ShippingManagerFacade.cs" t="Include" />
+            </e>
+            <e p="ViewModelFactories" t="Include">
+              <e p="CheckoutViewModelFactory.cs" t="Include" />
+              <e p="MultiShipmentViewModelFactory.cs" t="Include" />
+              <e p="OrderSummaryViewModelFactory.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="CheckoutViewModel.cs" t="Include" />
+              <e p="MultiShipmentViewModel.cs" t="Include" />
+              <e p="OrderConfirmationViewModel.cs" t="Include" />
+              <e p="OrderDiscountViewModel.cs" t="Include" />
+              <e p="OrderSummaryViewModel.cs" t="Include" />
+              <e p="ShipmentConfirmationViewModel.cs" t="Include" />
+              <e p="UpdateAddressViewModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ErrorHandling" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="ErrorHandlingController.cs" t="Include" />
+            </e>
+            <e p="Pages" t="Include">
+              <e p="ErrorFallback.html" t="Include" />
+              <e p="ErrorPage.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="ErrorViewModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Folder" t="Include">
+            <e p="Editorial" t="Include">
+              <e p="Blocks" t="Include">
+                <e p="FreeTextBlock.cs" t="Include" />
+              </e>
+              <e p="Controllers" t="Include">
+                <e p="FreeTextBlockController.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Pages" t="Include">
+              <e p="FolderPage.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Login" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="LoginController.cs" t="Include" />
+              <e p="RegistrationConfirmationMailController.cs" t="Include" />
+            </e>
+            <e p="Pages" t="Include">
+              <e p="LoginRegistrationPage.cs" t="Include" />
+              <e p="RegistrationConfirmationMailPage.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="OptinService.cs" t="Include" />
+              <e p="UserService.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="ExternalLoginConfirmationViewModel.cs" t="Include" />
+              <e p="LoginPageViewModel.cs" t="Include" />
+              <e p="LoginViewModel.cs" t="Include" />
+              <e p="RegisterAccountViewModel.cs" t="Include" />
+              <e p="RegistrationConfirmationMailPageViewModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Market" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="CurrencyController.cs" t="Include" />
+              <e p="LanguageController.cs" t="Include" />
+              <e p="MarketController.cs" t="Include" />
+            </e>
+            <e p="Models" t="Include">
+              <e p="EmptyMarket.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="CookieService.cs" t="Include" />
+              <e p="CurrencyService.cs" t="Include" />
+              <e p="CurrentMarket.cs" t="Include" />
+              <e p="ICurrencyService.cs" t="Include" />
+              <e p="LanguageService.cs" t="Include" />
+              <e p="MarketContentLoader.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="CurrencyViewModel.cs" t="Include" />
+              <e p="LanguageViewModel.cs" t="Include" />
+              <e p="MarketViewModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Media" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="MediaController.cs" t="Include" />
+            </e>
+            <e p="Models" t="Include">
+              <e p="ImageMediaData.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Navigation" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="FooterController.cs" t="Include" />
+              <e p="NavigationController.cs" t="Include" />
+            </e>
+            <e p="extensions" t="Include">
+              <e p="LinkItemExtensions.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="FooterViewModel.cs" t="Include" />
+              <e p="NavigationViewModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="OrderHistory" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="OrderHistoryController.cs" t="Include" />
+            </e>
+            <e p="Pages" t="Include">
+              <e p="OrderHistoryPage.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="OrderHistoryItemViewModel.cs" t="Include" />
+              <e p="OrderHistoryViewModel.cs" t="Include" />
+              <e p="OrderViewModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Payment" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="PaymentController.cs" t="Include" />
+            </e>
+            <e p="PaymentMethods" t="Include">
+              <e p="AuthorizePaymentMethod.cs" t="Include" />
+              <e p="CashOnDeliveryPaymentMethod.cs" t="Include" />
+              <e p="CreditCardPaymentMethodBase.cs" t="Include" />
+              <e p="GenericCreditCardPaymentMethod.cs" t="Include" />
+              <e p="PaymentMethodBase.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="IPaymentManagerFacade.cs" t="Include" />
+              <e p="PaymentManagerFacade.cs" t="Include" />
+            </e>
+            <e p="ViewModelFactories" t="Include">
+              <e p="PaymentMethodViewModelFactory.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="PaymentMethodSelectionViewModel.cs" t="Include" />
+              <e p="PaymentMethodViewModel.cs" t="Include" />
+              <e p="PaymentMethodViewModelBinder.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Product" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="BundleController.cs" t="Include" />
+              <e p="PackageController.cs" t="Include" />
+              <e p="ProductController.cs" t="Include" />
+              <e p="ProductPartialController.cs" t="Include" />
+              <e p="VariationPartialController.cs" t="Include" />
+            </e>
+            <e p="Models" t="Include">
+              <e p="FashionBundle.cs" t="Include" />
+              <e p="FashionNode.cs" t="Include" />
+              <e p="FashionPackage.cs" t="Include" />
+              <e p="FashionProduct.cs" t="Include" />
+              <e p="FashionVariant.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="CatalogService.cs" t="Include" />
+              <e p="IProductService.cs" t="Include" />
+              <e p="ProductService.cs" t="Include" />
+            </e>
+            <e p="ViewModelFactories" t="Include">
+              <e p="CatalogEntryViewModelFactory.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="FashionBundleViewModel.cs" t="Include" />
+              <e p="FashionPackageViewModel.cs" t="Include" />
+              <e p="FashionProductViewModel.cs" t="Include" />
+              <e p="ProductTileViewModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Profile" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="ProfilePageController.cs" t="Include" />
+            </e>
+            <e p="Pages" t="Include">
+              <e p="ProfilePage.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="ProfilePageViewModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Recommendations" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="RecommendationsController.cs" t="Include" />
+            </e>
+            <e p="extensions" t="Include">
+              <e p="RecommendationsExtensions.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="IRecommendationService.cs" t="Include" />
+              <e p="RecommendationContext.cs" t="Include" />
+              <e p="RecommendationService.cs" t="Include" />
+              <e p="TrackingResponseDataInterceptor.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="ProductViewModelBase.cs" t="Include" />
+              <e p="RecommendationsViewModel.cs" t="Include" />
+              <e p="RecommendedProductTileViewModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Registration" t="Include">
+            <e p="Blocks" t="Include">
+              <e p="OrderConfirmationRegistrationBlock.cs" t="Include" />
+            </e>
+            <e p="Controllers" t="Include">
+              <e p="OrderConfirmationRegistrationBlockController.cs" t="Include" />
+            </e>
+            <e p="Models" t="Include">
+              <e p="OrderConfirmationRegistrationFormModel.cs" t="Include" />
+              <e p="OrderConfirmationRegistrationFormModelBase.cs" t="Include" />
+              <e p="OrderConfirmationRegistrationModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ResetPassword" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="ResetPasswordController.cs" t="Include" />
+              <e p="ResetPasswordMailController.cs" t="Include" />
+            </e>
+            <e p="Pages" t="Include">
+              <e p="ResetPasswordMailPage.cs" t="Include" />
+              <e p="ResetPasswordPage.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="ForgotPasswordViewModel.cs" t="Include" />
+              <e p="ResetPasswordMailPageViewModel.cs" t="Include" />
+              <e p="ResetPasswordViewModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Search" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="CategoryController.cs" t="Include" />
+              <e p="CategoryPartialController.cs" t="Include" />
+              <e p="SearchController.cs" t="Include" />
+            </e>
+            <e p="Models" t="Include">
+              <e p="CustomSearchResult.cs" t="Include" />
+              <e p="FacetGroupOption.cs" t="Include" />
+              <e p="FacetOption.cs" t="Include" />
+              <e p="ProductSortOrder.cs" t="Include" />
+              <e p="SortOrder.cs" t="Include" />
+            </e>
+            <e p="Pages" t="Include">
+              <e p="SearchPage.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="ISearchService.cs" t="Include" />
+              <e p="SearchService.cs" t="Include" />
+            </e>
+            <e p="ViewModelFactories" t="Include">
+              <e p="SearchViewModelFactory.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="FilterOptionViewModel.cs" t="Include" />
+              <e p="FilterOptionViewModelBinder.cs" t="Include" />
+              <e p="SearchViewModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Shared" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="IdentityControllerBase.cs" t="Include" />
+              <e p="PreviewController.cs" t="Include" />
+              <e p="StandardPageController.cs" t="Include" />
+            </e>
+            <e p="extensions" t="Include">
+              <e p="AssetContainerExtensions.cs" t="Include" />
+              <e p="ContentExtensions.cs" t="Include" />
+              <e p="HtmlHelperExtensions.cs" t="Include" />
+              <e p="LineItemExtensions.cs" t="Include" />
+              <e p="StringExtensions.cs" t="Include" />
+              <e p="UrlResolverExtensions.cs" t="Include" />
+            </e>
+            <e p="ModelBinders" t="Include">
+              <e p="DecimalModelBinder.cs" t="Include" />
+            </e>
+            <e p="Models" t="Include">
+              <e p="AddressModel.cs" t="Include" />
+              <e p="IProductModel.cs" t="Include" />
+            </e>
+            <e p="Pages" t="Include">
+              <e p="StandardPage.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="CatalogContentService.cs" t="Include" />
+              <e p="ControllerExceptionHandler.cs" t="Include" />
+              <e p="IPricingService.cs" t="Include" />
+              <e p="PricingService.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="CountryRegionViewModel.cs" t="Include" />
+              <e p="CountryViewModel.cs" t="Include" />
+              <e p="PageViewModel.cs" t="Include" />
+              <e p="StandardPageViewModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Start" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="HeadController.cs" t="Include" />
+              <e p="StartController.cs" t="Include" />
+            </e>
+            <e p="extensions" t="Include">
+              <e p="StringExtensions.cs" t="Include" />
+            </e>
+            <e p="Pages" t="Include">
+              <e p="StartPage.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="PromotionViewModel.cs" t="Include" />
+              <e p="StartPageViewModel.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Warehouse" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="WarehouseController.cs" t="Include" />
+            </e>
+            <e p="Models" t="Include">
+              <e p="WarehouseAvailability.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="IWarehouseService.cs" t="Include" />
+              <e p="WarehouseService.cs" t="Include" />
+            </e>
+            <e p="ViewModelFactories" t="Include">
+              <e p="WarehouseViewModelFactory.cs" t="Include" />
+            </e>
+            <e p="ViewModels" t="Include">
+              <e p="WarehouseInventoryViewModel.cs" t="Include" />
+              <e p="WarehouseViewModel.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Global.asax" t="Include" />
+        <e p="Global.asax.cs" t="Include" />
+        <e p="Infrastructure" t="Include">
+          <e p="Attributes" t="Include">
+            <e p="AllowDBWriteAttribute.cs" t="Include" />
+            <e p="LocalizedCompareAttribute.cs" t="Include" />
+            <e p="LocalizedDisplayAttribute.cs" t="Include" />
+            <e p="LocalizedEmailAttribute.cs" t="Include" />
+            <e p="LocalizedRegularExpressionAttribute.cs" t="Include" />
+            <e p="LocalizedRequiredAttribute.cs" t="Include" />
+            <e p="LocalizedStringLengthAttribute.cs" t="Include" />
+            <e p="ReadOnlyFilter.cs" t="Include" />
+          </e>
+          <e p="BundleConfig.cs" t="Include" />
+          <e p="CurrencySetup.cs" t="Include" />
+          <e p="CustomCurrencySiteContext.cs" t="Include" />
+          <e p="Descriptors" t="Include">
+            <e p="FashionProductUIDescriptor.cs" t="Include" />
+            <e p="MoveCategoryEditorDescriptor.cs" t="Include" />
+          </e>
+          <e p="Facades" t="Include">
+            <e p="CountryManagerFacade.cs" t="Include" />
+            <e p="CurrentContactFacade.cs" t="Include" />
+            <e p="CustomerContextFacade.cs" t="Include" />
+            <e p="IsInEditModeAccessor.cs" t="Include" />
+            <e p="SearchFacade.cs" t="Include" />
+            <e p="UrlAuthorizationFacade.cs" t="Include" />
+          </e>
+          <e p="Indexing" t="Include">
+            <e p="CatalogIndexer.cs" t="Include" />
+            <e p="IndexingHelper.cs" t="Include" />
+            <e p="SearchDocumentController.cs" t="Include" />
+          </e>
+          <e p="ModelBinderProvider.cs" t="Include" />
+          <e p="OrderEventListener.cs" t="Include" />
+          <e p="Owin" t="Include">
+            <e p="AuthorizationServerProvider.cs" t="Include" />
+            <e p="MixedModeAuthStartup.cs" t="Include" />
+            <e p="Startup.cs" t="Include" />
+          </e>
+          <e p="SiteImport" t="Include">
+            <e p="CreateOrdersStep.cs" t="Include" />
+            <e p="ImportSiteContentStep.cs" t="Include" />
+            <e p="Templates.cs" t="Include" />
+          </e>
+          <e p="SiteInitialization.cs" t="Include" />
+          <e p="SiteTabs.cs" t="Include" />
+          <e p="StructureMapDependencyResolver.cs" t="Include" />
+          <e p="ViewTemplateModelRegistrator.cs" t="Include" />
+          <e p="WebApi" t="Include">
+            <e p="StructureMapDependencyScope.cs" t="Include" />
+            <e p="StructureMapResolver.cs" t="Include" />
+          </e>
+        </e>
+        <e p="lang" t="Include">
+          <e p="Display_en.xml" t="Include" />
+          <e p="Quicksilver_EN.xml" t="Include" />
+          <e p="Quicksilver_SV.xml" t="Include" />
+        </e>
+        <e p="modules" t="Include">
+          <e p="_protected" t="Include">
+            <e p="CMS" t="Include">
+              <e p="CMS.zip" t="Include" />
+              <e p="Web.config" t="Include" />
+            </e>
+            <e p="Commerce" t="Include">
+              <e p="Commerce.zip" t="Include" />
+            </e>
+            <e p="EPiServer.Cms.TinyMce" t="Include">
+              <e p="EPiServer.Cms.TinyMce.zip" t="Include" />
+              <e p="Web.config" t="Include" />
+            </e>
+            <e p="EPiServer.Commerce.Shell" t="Include">
+              <e p="EPiServer.Commerce.Shell.zip" t="Include" />
+            </e>
+            <e p="EPiServer.Commerce.Shell.ManagerIntegration" t="Include">
+              <e p="EPiServer.Commerce.Shell.ManagerIntegration.zip" t="Include" />
+            </e>
+            <e p="EPiServer.Commerce.UI.CustomerService" t="Include">
+              <e p="EPiServer.Commerce.UI.CustomerService.zip" t="Include" />
+            </e>
+            <e p="Shell" t="Include">
+              <e p="Shell.zip" t="Include" />
+              <e p="Web.config" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="readme.md" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="bootstrap.js" t="Include" />
+          <e p="jquery-1.11.1.js" t="Include" />
+          <e p="jquery.validate.min.js" t="Include" />
+          <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+          <e p="js" t="Include">
+            <e p="AddressBook.js" t="Include" />
+            <e p="Cart.js" t="Include" />
+            <e p="Checkout.js" t="Include" />
+            <e p="Login.js" t="Include" />
+            <e p="Market.js" t="Include" />
+            <e p="Misc.js" t="Include" />
+            <e p="Navigation.js" t="Include" />
+            <e p="Product.js" t="Include" />
+            <e p="Quicksilver.js" t="Include" />
+            <e p="Recommendations.js" t="Include" />
+            <e p="Registration.js" t="Include" />
+            <e p="Search.js" t="Include" />
+            <e p="Warehouse.js" t="Include" />
+          </e>
+          <e p="mustache.min.js" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Styles" t="Include">
+          <e p="bootstrap" t="Include">
+            <e p=".csscomb.json" t="Include" />
+            <e p=".csslintrc" t="Include" />
+            <e p="alerts.less" t="Include" />
+            <e p="badges.less" t="Include" />
+            <e p="bootstrap.less" t="Include" />
+            <e p="breadcrumbs.less" t="Include" />
+            <e p="button-groups.less" t="Include" />
+            <e p="buttons.less" t="Include" />
+            <e p="carousel.less" t="Include" />
+            <e p="close.less" t="Include" />
+            <e p="code.less" t="Include" />
+            <e p="component-animations.less" t="Include" />
+            <e p="dropdowns.less" t="Include" />
+            <e p="forms.less" t="Include" />
+            <e p="glyphicons.less" t="Include" />
+            <e p="grid.less" t="Include" />
+            <e p="input-groups.less" t="Include" />
+            <e p="jumbotron.less" t="Include" />
+            <e p="labels.less" t="Include" />
+            <e p="list-group.less" t="Include" />
+            <e p="media.less" t="Include" />
+            <e p="mixins" t="Include">
+              <e p="alerts.less" t="Include" />
+              <e p="background-variant.less" t="Include" />
+              <e p="border-radius.less" t="Include" />
+              <e p="buttons.less" t="Include" />
+              <e p="center-block.less" t="Include" />
+              <e p="clearfix.less" t="Include" />
+              <e p="forms.less" t="Include" />
+              <e p="gradients.less" t="Include" />
+              <e p="grid-framework.less" t="Include" />
+              <e p="grid.less" t="Include" />
+              <e p="hide-text.less" t="Include" />
+              <e p="image.less" t="Include" />
+              <e p="labels.less" t="Include" />
+              <e p="list-group.less" t="Include" />
+              <e p="nav-divider.less" t="Include" />
+              <e p="nav-vertical-align.less" t="Include" />
+              <e p="opacity.less" t="Include" />
+              <e p="pagination.less" t="Include" />
+              <e p="panels.less" t="Include" />
+              <e p="progress-bar.less" t="Include" />
+              <e p="reset-filter.less" t="Include" />
+              <e p="resize.less" t="Include" />
+              <e p="responsive-visibility.less" t="Include" />
+              <e p="size.less" t="Include" />
+              <e p="tab-focus.less" t="Include" />
+              <e p="table-row.less" t="Include" />
+              <e p="text-emphasis.less" t="Include" />
+              <e p="text-overflow.less" t="Include" />
+              <e p="vendor-prefixes.less" t="Include" />
+            </e>
+            <e p="mixins.less" t="Include" />
+            <e p="modals.less" t="Include" />
+            <e p="navbar.less" t="Include" />
+            <e p="navs.less" t="Include" />
+            <e p="normalize.less" t="Include" />
+            <e p="pager.less" t="Include" />
+            <e p="pagination.less" t="Include" />
+            <e p="panels.less" t="Include" />
+            <e p="popovers.less" t="Include" />
+            <e p="print.less" t="Include" />
+            <e p="progress-bars.less" t="Include" />
+            <e p="responsive-embed.less" t="Include" />
+            <e p="responsive-utilities.less" t="Include" />
+            <e p="scaffolding.less" t="Include" />
+            <e p="tables.less" t="Include" />
+            <e p="theme.less" t="Include" />
+            <e p="thumbnails.less" t="Include" />
+            <e p="tooltip.less" t="Include" />
+            <e p="type.less" t="Include" />
+            <e p="utilities.less" t="Include" />
+            <e p="variables.less" t="Include" />
+            <e p="wells.less" t="Include" />
+          </e>
+          <e p="bootstrap-social" t="Include">
+            <e p="bootstrap-social.less" t="Include" />
+          </e>
+          <e p="font-awesome" t="Include">
+            <e p=".bower.json" t="Include" />
+            <e p=".gitignore" t="Include" />
+            <e p=".npmignore" t="Include" />
+            <e p="bower.json" t="Include" />
+            <e p="css" t="Include">
+              <e p="font-awesome.css" t="Include" />
+              <e p="font-awesome.min.css" t="Include" />
+            </e>
+            <e p="fonts" t="Include">
+              <e p="fontawesome-webfont.eot" t="Include" />
+              <e p="fontawesome-webfont.svg" t="Include" />
+              <e p="fontawesome-webfont.ttf" t="Include" />
+              <e p="fontawesome-webfont.woff" t="Include" />
+              <e p="FontAwesome.otf" t="Include" />
+            </e>
+            <e p="less" t="Include">
+              <e p="bordered-pulled.less" t="Include" />
+              <e p="core.less" t="Include" />
+              <e p="extras.less" t="Include" />
+              <e p="fixed-width.less" t="Include" />
+              <e p="font-awesome.css" t="Include" />
+              <e p="font-awesome.less" t="Include" />
+              <e p="icons.less" t="Include" />
+              <e p="larger.less" t="Include" />
+              <e p="list.less" t="Include" />
+              <e p="mixins.less" t="Include" />
+              <e p="path.less" t="Include" />
+              <e p="rotated-flipped.less" t="Include" />
+              <e p="spinning.less" t="Include" />
+              <e p="stacked.less" t="Include" />
+              <e p="variables.less" t="Include" />
+            </e>
+            <e p="scss" t="Include">
+              <e p="_bordered-pulled.scss" t="Include" />
+              <e p="_core.scss" t="Include" />
+              <e p="_extras.scss" t="Include" />
+              <e p="_fixed-width.scss" t="Include" />
+              <e p="_icons.scss" t="Include" />
+              <e p="_larger.scss" t="Include" />
+              <e p="_list.scss" t="Include" />
+              <e p="_mixins.scss" t="Include" />
+              <e p="_path.scss" t="Include" />
+              <e p="_rotated-flipped.scss" t="Include" />
+              <e p="_spinning.scss" t="Include" />
+              <e p="_stacked.scss" t="Include" />
+              <e p="_variables.scss" t="Include" />
+              <e p="font-awesome.scss" t="Include" />
+            </e>
+          </e>
+          <e p="fonts" t="Include">
+            <e p="fontawesome-webfont.eot" t="Include" />
+            <e p="fontawesome-webfont.svg" t="Include" />
+            <e p="fontawesome-webfont.ttf" t="Include" />
+            <e p="fontawesome-webfont.woff" t="Include" />
+            <e p="FontAwesome.otf" t="Include" />
+            <e p="glyphicons-halflings-regular.eot" t="Include" />
+            <e p="glyphicons-halflings-regular.svg" t="Include" />
+            <e p="glyphicons-halflings-regular.ttf" t="Include" />
+            <e p="glyphicons-halflings-regular.woff" t="Include" />
+            <e p="glyphicons-halflings-regular.woff2" t="Include" />
+          </e>
+          <e p="footer.less" t="Include" />
+          <e p="Images" t="Include">
+            <e p="favicon.ico" t="Include" />
+            <e p="page_type.png" t="Include" />
+            <e p="sprite.png" t="Include" />
+          </e>
+          <e p="main.less" t="Include" />
+          <e p="mixins.less" t="Include" />
+          <e p="navigation.less" t="Include" />
+          <e p="Pages" t="Include">
+            <e p="addressbook.less" t="Include" />
+            <e p="checkout.less" t="Include" />
+            <e p="facets.less" t="Include" />
+            <e p="product.less" t="Include" />
+          </e>
+          <e p="product-dropdown.less" t="Include" />
+          <e p="product.less" t="Include" />
+          <e p="Recommendations" t="Include">
+            <e p="recommendations.less" t="Include" />
+          </e>
+          <e p="style.css" t="Include" />
+          <e p="style.less" t="Include" />
+          <e p="variables.less" t="Include" />
+          <e p="warehouse.less" t="Include" />
+        </e>
+        <e p="Views" t="Include">
+          <e p="_viewstart.cshtml" t="Include" />
+          <e p="AddressBook" t="Include">
+            <e p="EditAddress.cshtml" t="Include" />
+            <e p="EditForm.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="ModalAddressDialog.cshtml" t="Include" />
+          </e>
+          <e p="Bundle" t="Include">
+            <e p="_Quickview.cshtml" t="Include" />
+            <e p="BundleWithoutEntries.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Campaign" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Cart" t="Include">
+            <e p="LargeCart.cshtml" t="Include" />
+          </e>
+          <e p="Category" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Checkout" t="Include">
+            <e p="BillingAddress.cshtml" t="Include" />
+            <e p="EmptyCart.cshtml" t="Include" />
+            <e p="MultiShipmentCheckout.cshtml" t="Include" />
+            <e p="OrderSummary.cshtml" t="Include" />
+            <e p="SingleShipmentCheckout.cshtml" t="Include" />
+            <e p="SingleShippingAddress.cshtml" t="Include" />
+          </e>
+          <e p="Currency" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="ErrorHandling" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Footer" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="FreeTextBlock" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Language" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Login" t="Include">
+            <e p="ExternalLoginConfirmation.cshtml" t="Include" />
+            <e p="ExternalLoginFailure.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="Lockout.cshtml" t="Include" />
+            <e p="Login.cshtml" t="Include" />
+            <e p="RegisterAccount.cshtml" t="Include" />
+            <e p="Unapproved.cshtml" t="Include" />
+          </e>
+          <e p="Market" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Media" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="MultiShipment" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Navigation" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="OrderConfirmation" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="OrderConfirmationMailPage" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="OrderConfirmationRegistrationBlock" t="Include">
+            <e p="Complete.cshtml" t="Include" />
+            <e p="Complete2.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="NewCustomer.cshtml" t="Include" />
+          </e>
+          <e p="OrderHistory" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Package" t="Include">
+            <e p="_Quickview.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="PackageWithoutEntries.cshtml" t="Include" />
+          </e>
+          <e p="Payment" t="Include">
+            <e p="_Authorize.cshtml" t="Include" />
+            <e p="_CashOnDelivery.cshtml" t="Include" />
+            <e p="_GenericCreditCard.cshtml" t="Include" />
+            <e p="_PaymentMethodSelection.cshtml" t="Include" />
+          </e>
+          <e p="Preview" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Product" t="Include">
+            <e p="_Quickview.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="ProductWithoutEntries.cshtml" t="Include" />
+          </e>
+          <e p="ProfilePage" t="Include">
+            <e p="EditOptins.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Recommendations" t="Include">
+            <e p="_Recommendations.cshtml" t="Include" />
+          </e>
+          <e p="RegistrationConfirmationMail" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="ResetPassword" t="Include">
+            <e p="ForgotPassword.cshtml" t="Include" />
+            <e p="ForgotPasswordConfirmation.cshtml" t="Include" />
+            <e p="ResetPassword.cshtml" t="Include" />
+            <e p="ResetPasswordConfirmation.cshtml" t="Include" />
+          </e>
+          <e p="ResetPasswordMail" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Search" t="Include">
+            <e p="_QuickSearch.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Address.cshtml" t="Include" />
+            <e p="_AddressSummaryLine.cshtml" t="Include" />
+            <e p="_AuthorizeConfirmation.cshtml" t="Include" />
+            <e p="_CashOnDeliveryConfirmation.cshtml" t="Include" />
+            <e p="_Category.cshtml" t="Include" />
+            <e p="_CmsNavigation.cshtml" t="Include" />
+            <e p="_Facet.cshtml" t="Include" />
+            <e p="_GenericCreditCardConfirmation.cshtml" t="Include" />
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="_MiniCartDetails.cshtml" t="Include" />
+            <e p="_Product.cshtml" t="Include" />
+            <e p="_ProductList.cshtml" t="Include" />
+            <e p="_ProductTile.cshtml" t="Include" />
+            <e p="_RecommendationsTemplates.cshtml" t="Include" />
+            <e p="_WishListMiniCartDetails.cshtml" t="Include" />
+            <e p="DisplayTemplates" t="Include">
+              <e p="LinkItemCollection.cshtml" t="Include" />
+            </e>
+            <e p="EditorTemplates" t="Include">
+              <e p="AddressRegion.cshtml" t="Include" />
+            </e>
+          </e>
+          <e p="StandardPage" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Start" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Warehouse" t="Include">
+            <e p="_Address.cshtml" t="Include" />
+            <e p="_Availability.cshtml" t="Include" />
+            <e p="_Quickview.cshtml" t="Include" />
+          </e>
+          <e p="Web.config" t="Include" />
+          <e p="WishList" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="Web.config" t="Include" />
+        <e p="web.Debug.config" t="Include" />
+        <e p="web.Release.config" t="Include" />
+      </e>
+      <e p="Sources\EPiServer.Reference.Commerce.Site.Tests" t="IncludeRecursive">
+        <e p="app.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="EPiServer.Reference.Commerce.Site.Tests.csproj" t="IncludeRecursive" />
+        <e p="Features" t="Include">
+          <e p="AddressBook" t="Include">
+            <e p="AddressBookServiceTests.cs" t="Include" />
+            <e p="Controllers" t="Include">
+              <e p="AddressBookControllerTests.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Cart" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="CartControllerTests.cs" t="Include" />
+              <e p="WishListControllerTests.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="CartServiceTests.cs" t="Include" />
+            </e>
+            <e p="ViewModelFactories" t="Include">
+              <e p="CartViewModelFactoryTests.cs" t="Include" />
+              <e p="ShipmentViewModelFactoryTests.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Checkout" t="Include">
+            <e p="Services" t="Include">
+              <e p="AnonymousPurchaseValidationTests.cs" t="Include" />
+              <e p="AuthenticatedPurchaseValidationTests.cs" t="Include" />
+              <e p="CheckoutAddressHandlingTests.cs" t="Include" />
+              <e p="CheckoutServiceTests.cs" t="Include" />
+            </e>
+            <e p="ViewModelFactories" t="Include">
+              <e p="CheckoutViewModelFactoryTests.cs" t="Include" />
+              <e p="MultiShipmentViewModelFactoryTests.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ErrorHandling" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="ErrorHandlingControllerTests.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Login" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="LoginControllerTests.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Market" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="CurrencyControllerTests.cs" t="Include" />
+              <e p="LanguageControllerTests.cs" t="Include" />
+              <e p="MarketControllerTests.cs" t="Include" />
+            </e>
+            <e p="CurrencyServiceTests.cs" t="Include" />
+            <e p="LanguageServiceTests.cs" t="Include" />
+          </e>
+          <e p="Payment" t="Include">
+            <e p="ViewModelFactories" t="Include">
+              <e p="PaymentMethodViewModelFactoryTests.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Product" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="BundleControllerTests.cs" t="Include" />
+              <e p="PackageControllerTests.cs" t="Include" />
+              <e p="ProductControllerTests.cs" t="Include" />
+            </e>
+            <e p="ViewModelFactories" t="Include">
+              <e p="CatalogEntryViewModelFactoryTests.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Recommendations" t="Include">
+            <e p="Services" t="Include">
+              <e p="RecommendationServiceTest.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ResetPassword" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="ResetPasswordControllerTests.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Search" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="CategoryControllerTests.cs" t="Include" />
+              <e p="CategoryPartialControllerTests.cs" t="Include" />
+              <e p="SearchControllerTests.cs" t="Include" />
+            </e>
+            <e p="Models" t="Include">
+              <e p="SearchViewModelFactoryTests.cs" t="Include" />
+            </e>
+            <e p="SearchServiceTests.cs" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="IdentityControllerBaseTests.cs" t="Include" />
+            </e>
+            <e p="extensions" t="Include">
+              <e p="AssetContainerExtensionsTests.cs" t="Include" />
+              <e p="ContentExtensionsTests.cs" t="Include" />
+              <e p="UrlResolverExtensionsTests.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="ControllerExceptionHandlerTests.cs" t="Include" />
+              <e p="PricingServiceTests.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Start" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="HeadControllerTests.cs" t="Include" />
+              <e p="StartControllerTests.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Warehouse" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="WarehouseControllerTests.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="WarehouseServiceTests.cs" t="Include" />
+            </e>
+            <e p="ViewModelFactories" t="Include">
+              <e p="WarehouseViewModelFactoryTests.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Infrastructure" t="Include">
+          <e p="Attributes" t="Include">
+            <e p="AllowDBWriteAttributeTests.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="TestSupport" t="Include">
+          <e p="Fakes" t="Include">
+            <e p="FakeCardPayment.cs" t="Include" />
+            <e p="FakeCart.cs" t="Include" />
+            <e p="FakeCountryManager.cs" t="Include" />
+            <e p="FakeCurrentContact.cs" t="Include" />
+            <e p="FakeCustomerContext.cs" t="Include" />
+            <e p="FakeLineItem.cs" t="Include" />
+            <e p="FakeOrderAddress.cs" t="Include" />
+            <e p="FakeOrderGroupFactory.cs" t="Include" />
+            <e p="FakePayment.cs" t="Include" />
+            <e p="FakePaymentMethod.cs" t="Include" />
+            <e p="FakeRedemptionDescription.cs" t="Include" />
+            <e p="FakeShipment.cs" t="Include" />
+            <e p="FakeUrlAuthorization.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
