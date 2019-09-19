@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Philip Englund\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
-    <e p="C:\Users\Philip Englund\.Rider2019.2\config\extensions" t="IncludeRecursive" />
-    <e p="C:\Users\Philip Englund\.Rider2019.2\config\plugins\puppet\lib\stubs" t="IncludeRecursive" />
-    <e p="C:\Users\Philip Englund\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Philip Englund\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Quicksilver.195739681.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Philip Englund\Workspace\Quicksilver" t="IncludeFlat">
+    <e p="C:\Users\Jonathan\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Jonathan\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Quicksilver.630840023.00" t="ExcludeRecursive" />
+    <e p="C:\Workspace\Sogeti LIA\qs" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive">
         <e p="xunit.runner.visualstudio.2.3.1\build\_common\xunit.abstractions.dll" t="Include" />
         <e p="xunit.runner.visualstudio.2.3.1\build\_common\xunit.runner.reporters.net452.dll" t="Include" />
@@ -366,7 +363,6 @@
               <e p="FashionVariant.cs" t="Include" />
             </e>
             <e p="Services" t="Include">
-              <e p="CatalogService.cs" t="Include" />
               <e p="IProductService.cs" t="Include" />
               <e p="ProductService.cs" t="Include" />
             </e>
@@ -655,7 +651,6 @@
           </e>
           <e p="mustache.min.js" t="Include" />
         </e>
-        <e p="Startup.cs" t="Include" />
         <e p="Styles" t="Include">
           <e p="bootstrap" t="Include">
             <e p=".csscomb.json" t="Include" />

@@ -73,7 +73,7 @@ namespace EPiServer.Reference.Commerce.Site.Infrastructure.Owin
                 CookieName = ".AspNet." + DefaultAuthenticationTypes.ExternalCookie,
                 ExpireTimeSpan = TimeSpan.FromMinutes(5)
             });
-
+            
             // <add key="ida:AADInstance" value="https://login.microsoftonline.com/{0}" />
             string aadInstance = ConfigurationManager.AppSettings["ida:AADInstance"];
 

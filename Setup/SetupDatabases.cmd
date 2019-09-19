@@ -19,7 +19,7 @@ if "%commerce_core%"=="" (
 	exit /b
 )
 
-set sql=sqlcmd -S DESKTOP-9A4E4O8\SQLEXPRESS -E
+set sql=sqlcmd -S . -E
 
 echo Dropping databases...
 %sql% -Q "EXEC msdb.dbo.sp_delete_database_backuphistory N'%cms_db%'"
